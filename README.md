@@ -1,3 +1,3 @@
-# Modular Download
+# modularDownload.js
 
-Simple Modular Download Zip Script for Vanilla JavaScript
+Simple modular download script for vanilla JavaScript. Combine multiple files into a zip file.
