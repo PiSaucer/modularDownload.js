@@ -33,7 +33,7 @@
   <p align="center">
     Simple modular download script for vanilla JavaScript. Combine multiple files into a zip file.
     <br/>
-    <a href="pisaucer.github.io/modulardownload.js/docs/"><strong>Explore the docs »</strong></a>
+    <a href="https://pisaucer.github.io/modulardownload.js/docs/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/PiSaucer/modularDownload.js">View Code</a>
