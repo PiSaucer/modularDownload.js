@@ -1,23 +1,26 @@
  <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
   
   <a href="https://github.com/PiSaucer/modularDownload.js/releases">
-    <img src="https://img.shields.io/github/v/release/PiSaucer/modularDownload.js.svg?style=for-the-badge&color=green" alt="Releases" width="145" height="28">
+    <img src="https://img.shields.io/github/v/release/PiSaucer/modularDownload.js.svg?color=green" alt="Releases" width="94" height="20">
   </a>
   <a href="https://github.com/PiSaucer/modularDownload.js//graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/PiSaucer/modularDownload.js.svg?style=for-the-badge" alt="Contributors" width="153.5" height="28">
+    <img src="https://img.shields.io/github/contributors/PiSaucer/modularDownload.js.svg" alt="Contributors" width="94" height="20">
   </a>
   <a href="https://github.com/PiSaucer/modularDownload.js/network/members">
-    <img src="https://img.shields.io/github/forks/PiSaucer/modularDownload.js.svg?style=for-the-badge" alt="Forks" width="93.5" height="28">
+    <img src="https://img.shields.io/github/forks/PiSaucer/modularDownload.js.svg" alt="Forks" width="54" height="20">
   </a>
   <a href="https://github.com/PiSaucer/modularDownload.js/stargazers">
-    <img src="https://img.shields.io/github/stars/PiSaucer/modularDownload.js.svg?style=for-the-badge" alt="Stargazers" width="91.5" height="28">
+    <img src="https://img.shields.io/github/stars/PiSaucer/modularDownload.js.svg" alt="Stargazers" width="54" height="20">
   </a>
   <a href="https://github.com/PiSaucer/modularDownload.js/issues">
-    <img src="https://img.shields.io/github/issues/PiSaucer/modularDownload.js.svg?style=for-the-badge" alt="Issues" width="141" height="28">
+    <img src="https://img.shields.io/github/issues/PiSaucer/modularDownload.js.svg" alt="Issues" width="90" height="20">
   </a>
   <a href="https://github.com/PiSaucer/modularDownload.js/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/PiSaucer/modularDownload.js.svg?style=for-the-badge&color=yellow" alt="MIT License" width="122.5" height="28">
-  </a>
+    <img src="https://img.shields.io/github/license/PiSaucer/modularDownload.js.svg?color=yellow" alt="MIT License" width="78" height="20">
+ </a>
+ <a href="https://www.codefactor.io/repository/github/pisaucer/modulardownload.js/overview/main">
+  <img src="https://www.codefactor.io/repository/github/pisaucer/modulardownload.js/badge/main" alt="CodeFactor" width="94" height="20">
+ </a>
 
 </div>
 
