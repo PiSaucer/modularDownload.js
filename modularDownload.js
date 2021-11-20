@@ -39,11 +39,11 @@ jQuery(function($) {
      * @param {on click}
      * @return {Promise} the promise containing the data.
      */
-    $(".btn").on('click', function(e) {
+    $(".btn").on('click', function() {
         let fileType = $(this).attr("value");
         var fileName = "example";
 
-        var $form = $("#download_form").click("submit", function(e) {
+        $("#download_form").click("submit", function() {
 
             //Restart and Create New JSZip object
             resetMessage();
@@ -159,7 +159,7 @@ jQuery(function($) {
 
     if (!JSZip.support.blob) {
         showError("This works only with a modern browser !");
-        return;
+        return null;
     }
 
 });
