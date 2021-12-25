@@ -90,6 +90,16 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
+Using including requriements with jsDeliver:
+
+```html
+<script src="https://cdn.jsdelivr.net/combine/gh/pisaucer/modularDownload.js@1/modularDownload.min.js,npm/filesaver.js@1,npm/jszip@3/dist/jszip.min.js,npm/jszip-utils@0.1.0/dist/jszip-utils.min.js,npm/jquery@3,npm/bootstrap@5"></script>
+```
+
+Only modularDownload.js with jsDevlier
+```html
+<script src="https://cdn.jsdelivr.net/gh/pisaucer/modularDownload.js/modularDownload.min.js"></script>
+```
 
 <!-- ROADMAP -->
 ## Roadmap
